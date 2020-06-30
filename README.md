@@ -25,9 +25,7 @@
   </a>
 </p>
 
-O primeiro desafio de 2020 já vem com uma novidade! Será uma parceria com a Leitura Orgânica(@leituraorganica), um projeto de um amigão meu que tem como objetivo ajudar as pessoas a lerem mais e melhor.
-
-Você já parou pra pensar qual a sua velocidade de leitura? Nesse desafio vamos simular que a Leitura Orgânica é nossa cliente e precisa de um sistema que calcule a velocidade de leitura das pessoas.
+O primeiro desafio de 2020 já vem com uma novidade! Será uma parceria com a Leitura Orgânica(@leituraorganica). Você já parou pra pensar qual a sua velocidade de leitura? Nesse desafio vamos simular que a Leitura Orgânica é nossa cliente e precisa de um sistema que calcule a velocidade de leitura das pessoas.
 
 ## 🚀 Execultar Localmente
 
