@@ -11,8 +11,8 @@
   <a href="https://github.com/henry-ns/portfolio/graphs/commit-activity" alt="Maintenance">
     <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
   </a>
-  <a href="http://leituraorganica.netlify.com/" alt="Website leituraorganica.netlify.com">
-    <img src="https://img.shields.io/website-up-down-green-red/https/leituraorganica.netlify.com" />
+  <a href="http://leitura-organica.thehenry.dev/" alt="Website leitura-organica.thehenry.dev">
+    <img src="https://img.shields.io/website-up-down-green-red/https/leitura-organica.thehenry.dev" />
   </a>
   <a href="./LICENSE" alt="License: MIT">
     <img src="https://img.shields.io/badge/License-MIT-blue.svg" />
